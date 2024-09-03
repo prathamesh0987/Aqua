@@ -1,0 +1,10 @@
+{
+    "title" : "SVR WATER QUALITY MONITORING SYSTEM",
+    "PH": "pH value",
+    "TEMP": "TEMPERATURE (\u2103)",
+    "DO": "DO",
+    "EC":"EC",
+    "SALINITY": "SALINITY",
+    "ENGLISH": "ENGLISH",
+    "HINDI" :"हिंदी"
+}

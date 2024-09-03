@@ -1,0 +1,106 @@
+{
+  "project_info": {
+    "project_number": "194126966134",
+    "firebase_url": "https://aqua-bb696-default-rtdb.firebaseio.com",
+    "project_id": "aqua-bb696",
+    "storage_bucket": "aqua-bb696.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194126966134:android:c6158f39da94de3e68de57",
+        "android_client_info": {
+          "package_name": "com.svr.aqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194126966134-crbtjn73fesdhdlgj5eq1mn006si41ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KilBAcHHQgxb-ch8Wu9SUpiMaCfNAtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194126966134-crbtjn73fesdhdlgj5eq1mn006si41ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194126966134:android:cced2400a19edb1068de57",
+        "android_client_info": {
+          "package_name": "com.svrinfotech.Aqua"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194126966134-r2lbbb6s267tg3lvqvrvn5icu1jh4gjj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.svrinfotech.Aqua",
+            "certificate_hash": "7679f8188f951f03f613b23e325039bfaf6317c0"
+          }
+        },
+        {
+          "client_id": "194126966134-crbtjn73fesdhdlgj5eq1mn006si41ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KilBAcHHQgxb-ch8Wu9SUpiMaCfNAtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194126966134-crbtjn73fesdhdlgj5eq1mn006si41ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194126966134:android:a031319de65958e668de57",
+        "android_client_info": {
+          "package_name": "com.svrinfotech.WaterQualityControl"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194126966134-crbtjn73fesdhdlgj5eq1mn006si41ff.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD0KilBAcHHQgxb-ch8Wu9SUpiMaCfNAtM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194126966134-crbtjn73fesdhdlgj5eq1mn006si41ff.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
